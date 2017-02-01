@@ -33,8 +33,5 @@ public class Hash_Map {
 		System.out.println(person.get("Name"));
 		System.out.println("---------------------");
 		System.out.println(person.toString());
-		
-		
 	}
-	
 }
