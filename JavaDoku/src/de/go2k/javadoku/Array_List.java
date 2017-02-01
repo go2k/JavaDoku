@@ -23,6 +23,7 @@ public class Array_List {
 		for (String string : arrliste) {
 			System.out.print(string + " ");
 		}
+		
 		System.out.println();
 
 		arrliste.remove(2);
